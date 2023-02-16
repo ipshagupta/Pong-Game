@@ -6,7 +6,7 @@
 
 ### ☀️ About the Game
 
-Pong is one of the first computer games that ever created, this simple "tennis like" game features two paddles and a ball, the goal is to defeat your opponent by being the first one to gain10 point, a player gets a point once the opponent misses a ball.    
+Pong is one of the first computer games that ever created, this simple "tennis like" game features two paddles and a ball, the goal is to defeat your opponent by being the first one to gain a point, a player gets a point once the opponent misses a ball.    
 ### :video_game: How to Play
   
   :one: Controls for the right paddle: "Up" arrow key for upward direction, "Down" arrow key for downward direction.
